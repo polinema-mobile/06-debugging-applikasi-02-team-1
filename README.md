@@ -5,7 +5,7 @@ Kelas TI 3F - Breakout Room 1
 ## Anggota Kelompok
 
 1. Livia Yurike Khuril Maula - 1841720025
-2. Muhammad Fachry Najib - 1841720011
+2. Muhammad Fachry Najib     - 1841720011
 
 Features - 
 1) Responsive UI.
